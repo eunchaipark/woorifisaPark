@@ -29,10 +29,10 @@
       if i==9:
           end=i # end에 마지막값 할당
       li.append(i) # 차례대로 리스트에 삽입
--  print(li) # 리스트 출력
--  print(start,end) # start, end 출력
+      print(li) # 리스트 출력
+-   print(start,end) # start, end 출력
   
-## 리스트를 만듬과 동시에 i가 0일때 start에 0을 넣어주고, end에 값을 계속 넣어 마지막값역시 end에 할당
-  - li = [(end:=i) if i else (start:=i) for i in range(10)]
-  - print(li) # 리스트 출력
-  - print(start, end) # start, end 출력
+-  리스트를 만듬과 동시에 i가 0일때 start에 0을 넣어주고, end에 값을 계속 넣어 마지막값역시 end에 할당
+ - - li = [(end:=i) if i else (start:=i) for i in range(10)]
+ - - print(li) # 리스트 출력
+ - - print(start, end) # start, end 출력
