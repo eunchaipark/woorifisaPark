@@ -12,14 +12,12 @@
 - 사이드바 만들기 및 버튼 누르기, multi select, slider, 칼럼 구역 나누기(만들기) 등등
 - 이전에 배운 데이터 시각화를 통해 주식 데이터를 받아서 가상프로그램 제작하기
   # 실제 사용 예시
-"""st.title('무슨 주식을 사야 부자가 되려나')
-# Using "with" notation
-with st.sidebar:
-    st.title('회사 이름과 기간을 입력하세요')
-    stock_name = st.text_input('회사이름')
-    today = datetime.date.today()
-    # 날짜 범위 입력 위젯 생성
-    start_date, end_date = st.date_input(
+```st.title('무슨 주식을 사야 부자가 되려나')
+    with st.sidebar:
+      st.title('회사 이름과 기간을 입력하세요')
+      stock_name = st.text_input('회사이름')
+      today = datetime.date.today()
+      start_date, end_date = st.date_input(
         'Select a date range',
         value=(today, today + datetime.timedelta(days=7)))
-        button_result = st.button('주가데이터 확인') """
+      button_result = st.button('주가데이터 확인') ```
