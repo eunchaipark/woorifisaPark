@@ -1,4 +1,4 @@
-### **11일차 네줄리뷰(Four Lines Review)** ###
+### **12일차 네줄리뷰(Four Lines Review)** ###
 - 사실(Facts): streamlit의 이해 및 사용법, 가상프로그램에 대한 이해
 - 발견(Discovery): streamlit을 활용한 가상프로그램 사용
 - 배운점(Lesson Learned): 가상프로그램을 사용하면 데이터 시각화 프로그램을 배포의 편의성을 가질 수 있음을 알게 되었다. 이 과정에서 git을 사용하면서 편의성을 더욱 올릴수 있었다.
