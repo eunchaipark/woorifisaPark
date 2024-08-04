@@ -1,4 +1,4 @@
-### **11일차 네줄리뷰(Four Lines Review)** ###
+### **14일차 네줄리뷰(Four Lines Review)** ###
 - 사실(Facts): SQL-2(데이터 조회, 집계 쿼리,SQL 함수, 조인)
 - 발견(Discovery): SQL변수의 사용, 조인 사용법
 - 배운점(Lesson Learned): 문자형함수, 시간함수, 형변환 
