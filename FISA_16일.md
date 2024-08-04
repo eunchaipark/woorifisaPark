@@ -1,4 +1,4 @@
-### **15일차 네줄리뷰(Four Lines Review)** ###
+### **16일차 네줄리뷰(Four Lines Review)** ###
 - 사실(Facts): INTEGRITY(무결성), INDEX(인덱스),VIEW(뷰),윈도우 함수, 스토어드 프로시저
 - 발견(Discovery):  CASCADE사용, 인데스에 따른 조회 결과의 차이, VIEW에 값추가에 따른 원본의 변경 여부
 - 배운점(Lesson Learned): CASCADE와 무결성의 연관, PRIMARY KET와 UNIQUE의 차이(클러스터 인덱스, 비클러터형 인덱스)
