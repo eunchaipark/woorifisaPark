@@ -1,4 +1,4 @@
-### **11일차 네줄리뷰(Four Lines Review)** ###
+### **13일차 네줄리뷰(Four Lines Review)** ###
 - 사실(Facts): SQL에 대한 이해, vscode에서 mysql 연동, (비)정형데이터에 대한 이해
 - 발견(Discovery): SQL문 구조에 대한 이해, SQL에서 사용하는 데이터타입, 자료형의 세분화
 - 배운점(Lesson Learned): 다양한 쿼리문의 대한 이해, sql에서 데이터타입, 인간의 문법과 가장 닮아 있는 문법이다. 자료형의 세분화의 이유, mysql에서 sql을 할 수 있지만 vscode를 연동함으로써 편의성을 더했다.
