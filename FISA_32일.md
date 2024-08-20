@@ -1,7 +1,7 @@
 ### **32일차 네줄리뷰(Four Lines Review)** ###
 
 ### **오늘의 프로젝트** ###
-- **프로젝트 주소**: [[Notion 프로젝트 링크](https://www.notion.so/your-project-link)](https://www.notion.so/b1c45521c32347ea8bf35f5fee6fa030)
+- **프로젝트 주소**: (https://www.notion.so/b1c45521c32347ea8bf35f5fee6fa030)
 
   
 - **사실(Facts)**: HTML, CSS, JavaScript는 웹 개발의 기본 기술입니다.
